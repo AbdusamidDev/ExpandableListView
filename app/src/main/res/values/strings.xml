@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ExpendListView</string>
+    <string name="name_or_model">Name or Model</string>
+    <string name="add">Add</string>
+    <string name="information">Information</string>
+    <string name="mobiles">Mobiles</string>
+    <string name="laptops">Laptops</string>
+    <string name="com_access">Computer Accessories</string>
+    <string name="home_enter">Home Entertainment</string>
+    <string name="tvs_by_brand">TVs by brand</string>
+    <string name="kitchen">Kitchen Appliances</string>
+</resources>
